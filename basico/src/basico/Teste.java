@@ -26,7 +26,7 @@ public class Teste {
 	
 }
 
-class Pessoa {
+class PessoaTeste {
 	static int id = 1;
 	
 	static void m2() {

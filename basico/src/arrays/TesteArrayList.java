@@ -17,6 +17,7 @@ public class TesteArrayList {
 			String atual = iterator.next();
 			System.out.println(atual);
 		}
+		
 	}
 	
 }
